@@ -13,7 +13,7 @@ const SKILLS = {
     { name: "Redux", level: 78, desc: "Global state management for complex enterprise applications" },
     { name: "React Hooks", level: 90, desc: "useState, useEffect, custom hooks for clean functional components" },
     { name: "HTML / CSS", level: 92, desc: "Semantic HTML, responsive layouts, CSS Grid & Flexbox" },
-    { name: "Next.js", level: 75, desc: "" },
+    { name: "Next.js", level: 75, desc: "Server-side rendering (SSR), static site generation (SSG), API routes, and SEO-optimized React applications" },
   ],
   "Tools & Others": [
     { name: "Git / GitHub", level: 85, desc: "Version control, branching strategies, code reviews" },
